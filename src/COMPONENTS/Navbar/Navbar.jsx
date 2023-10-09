@@ -44,7 +44,13 @@ console.log(res,'out');
       }
       </ul>
     </div>
-    <a className="btn btn-ghost normal-case text-xl">RAHI MANAGEMENT</a>
+    <div className="flex justify-center items-center font-bold text-2xl">
+      <div><h1 className="text-pink-600">RAHI</h1></div>
+    </div>
+    <div className="ml-2">
+      <h1 className="text-purple-800">EVENT</h1>
+      <h1 className="text-blue-600">MANAGEMENT</h1>
+    </div>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

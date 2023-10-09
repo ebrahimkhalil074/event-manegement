@@ -1,10 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import Navbar from "../COMPONENTS/Navbar/Navbar";
 
 const About = () => {
     return (
-        <div className=' space-y-10 p-10'>
-            <h1 className='text-5xl font-extrabold text-center'>About</h1>
+       <div>
+        <Navbar></Navbar>
+         <div className=' space-y-10 p-10'>
+            <h1 className='text-5xl font-extrabold text-pink-600 text-center'>About</h1>
             <h3 className='text-xl'>
             With a perfect blend of experience and passion, Rahi Event Planner is an event management company in Bangladesh. We’ve emerged as a company with ideas to turn your corporate or personal event into something worth remembering. With the help of our creative team, we provide our services to most types of corporate events including, but not limited to, seminars, conferences, trade shows, cultural events, company or organization milestones, exhibitions, product launches, concerts, company annual meetings, corporate picnics, fashion shows and appreciation events. We will also strive to make your wedding events, birthday events and other personal events unforgettable.              
             </h3>
@@ -18,6 +19,7 @@ const About = () => {
             <h2 className='text-2xl font-extrabold'>Email Us:mdebrahimkhalil074@gmail.com</h2>
             <h2 className='text-2xl font-extrabold'>Facebook:<a className='text-purple-600' href=' https://www.facebook.com/mdebrahimkholil.ebrahim.7/' > https://www.facebook.com/mdebrahimkholil.ebrahim.7/</a></h2>
         </div>
+       </div>
     );
 };
 

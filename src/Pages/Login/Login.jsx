@@ -22,8 +22,8 @@ emailLogIn(email,password)
 console.log(res.user);
 navigate(location?.state?location.state:"/")
 })
-.catch(err=>{
-  console.log(err.massage);
+.catch(error=>{
+  console.log(error.massage);
 })
 }
 
@@ -100,7 +100,7 @@ navigate(location?.state?location.state:"/")
       onClick={handelLogIn}
       data-ripple-light="true"
     >
-     <Link to='/'> Sign In</Link>
+     <Link > Sign In</Link>
     </button>
     <p className="mt-6 flex justify-center font-sans text-sm font-light leading-normal text-inherit antialiased">
       Don't have an account?
