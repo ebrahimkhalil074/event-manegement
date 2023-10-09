@@ -5,6 +5,8 @@ import Details from "./COMPONENTS/Details/Details";
 import Register from "./Pages/Register/Register";
 import Login from "./Pages/Login/Login";
 import PrivateRoute from "./COMPONENTS/Navbar/PrivateRoute";
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
 
 
 const router = createBrowserRouter([
@@ -30,6 +32,14 @@ loader:()=> fetch("/category.json")
         {
           path:"/login",
           element:<Login></Login>
+        },
+        {
+          path:"/about",
+          element:<About></About>
+        },
+        {
+          path:"/contact",
+          element:<Contact></Contact>
         }
       ]
     },

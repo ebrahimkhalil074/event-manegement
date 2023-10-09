@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/NYVc884/wedding-ceremony-beautiful-couple-forest-8353-6652.jpg",
+        "event_name": "Wedding Event"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/NtsLB40/OIP-1.jpg",
+        "event_name": "Birthday Event"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/q5PwGjP/OIP-4.jpg",
+        "event_name": "Anniversaries Event "
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/kxB21QH/engagement-party.webp",
+        "event_name": "Engagement Event "
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/b6NKfkb/R-6.jpg",
+        "event_name": "Retirement Event"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/zP3Wt8L/R-9.jpg",
+        "event_name": "Baby Showers Event"
+    }
+]

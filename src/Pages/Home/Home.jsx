@@ -5,6 +5,7 @@ import Title from '../../COMPONENTS/title/Title';
 import Categories from '../../COMPONENTS/catagoury/categories';
 import Footer from '../../COMPONENTS/Footer';
 import Navbar from '../../COMPONENTS/Navbar/Navbar';
+import ChooseEvent from '../../COMPONENTS/ChooseEvent';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
          <div>  <Slider></Slider> </div>
            <Title></Title>
            <Categories></Categories>
+           <ChooseEvent></ChooseEvent>
            <Footer></Footer>
         </div>
     );
