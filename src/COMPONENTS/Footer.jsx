@@ -1,11 +1,10 @@
-import { Link, useParams } from "react-router-dom";
+import { Link,  } from "react-router-dom";
 
 
 const Footer = () => {
-  const{id} =useParams()
-  console.log(id);
+
     return (
-        <div>
+        <div className="mt-10">
            <footer className="footer p-10 bg-base-300 text-base-content text-2xl">
   <nav>
     <header className="footer-title">Services</header> 
