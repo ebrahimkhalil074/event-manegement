@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "yoga_name": "Hatha Yoga",
+      "img": "https://i.ibb.co/RgJqR5b/yoga-class-stretching-640630209-57f3b8263df78c690f28580c.jpg",
+      "price": "$50 per session",
+      "title": "Introduction to Hatha Yoga",
+      "details": "Discover the essence of Hatha Yoga, a timeless practice that harmonizes the body and mind. In our 'Introduction to Hatha Yoga' class, you will embark on a transformative journey towards inner peace and physical well-being. This class is suitable for practitioners of all levels, whether you're a beginner or an experienced yogi.Hatha Yoga is characterized by its focus on asanas (postures) and pranayama (breath control). Through a carefully curated sequence of poses, you'll enhance your flexibility, strength, and balance. Our experienced instructors will guide you through proper alignment and the art of conscious breathing, allowing you to experience the profound benefits of this practice.As you delve deeper into your Hatha Yoga practice, you'll develop mental clarity, reduce stress, and cultivate a sense of inner calm. This class is an opportunity to disconnect from the chaos of daily life and reconnect with your true self. Join us for an enriching and holistic yoga experience that will leave you feeling rejuvenated and empowered."
+    },
+    {
+      "id": 2,
+      "yoga_name": "Vinyasa Flow",
+      "img": "https://i.ibb.co/RNSnMwW/69889371-1.webp",
+      "price": "$60 per session",
+      "title": "Dynamic Vinyasa Flow",
+      "details": "Immerse yourself in the dynamic world of Vinyasa Flow Yoga, where movement and breath unite to create a transformative practice. Our 'Dynamic Vinyasa Flow' class is designed for those seeking a physically invigorating and spiritually enriching yoga experience.Vinyasa, which means 'to place in a special way,' emphasizes the seamless transition between yoga postures, synchronized with your breath. This flowing style builds strength, enhances flexibility, and cultivates mindfulness. Each session is an exploration of creative sequences that challenge you physically and mentally.Our experienced instructors will guide you through the practice, helping you refine your alignment and encouraging you to explore your edge. As you flow through the asanas, you'll build a deeper connection with your body and gain a greater understanding of the mind-body connection.Join us for 'Dynamic Vinyasa Flow' and embark on a journey of self-discovery, where you'll leave each class feeling energized, centered, and ready to take on life's challenges with a clear mind and an open heart."
+    },
+    {
+      "id": 3,
+      "yoga_name": "Ashtanga Yoga",
+      "img": "https://i.ibb.co/PYLTgzk/images.jpg",
+      "price": "$55 per session",
+      "title": "Traditional Ashtanga Yoga",
+      "details": "Step into the realm of traditional Ashtanga Yoga, a disciplined and transformative practice that focuses on the synchronization of breath and movement. Our 'Traditional Ashtanga Yoga' class invites you to explore the ancient teachings of this dynamic and invigorating yoga style.Ashtanga Yoga follows a set sequence of postures, offering a structured path to physical and mental purification. Through the practice of asanas and vinyasas (breath-linked movements), you will develop strength, flexibility, and endurance. This rigorous practice encourages self-discipline and a deepening of self-awareness.Led by our skilled instructors, you'll embark on a journey of self-discovery and self-improvement. With regular practice, you'll notice increased physical vitality, improved concentration, and a sense of inner peace that extends into your daily life.Join us for 'Traditional Ashtanga Yoga' and experience the transformative power of this ancient yoga tradition. Reconnect with your inner self, strengthen your body, and find balance in the chaos of the modern world."
+    },
+    {
+      "id": 4,
+      "yoga_name": "Kundalini Yoga",
+      "img": "https://i.ibb.co/VgB57tT/Kundalini-Hero-768x427.jpg",
+      "price": "$70 per session",
+      "title": "Awaken Your Kundalini",
+      "details": "Journey into the mystical realm of Kundalini Yoga, a practice that awakens the dormant energy within you and leads to profound spiritual awakening. Our 'Awaken Your Kundalini' class invites you to experience the transformational power of this sacred yoga tradition.Kundalini Yoga incorporates a combination of asanas, pranayama (breathwork), meditation, and mantra chanting to activate the Kundalini energy, often depicted as a coiled serpent at the base of the spine. This awakening leads to heightened awareness, spiritual enlightenment, and a deeper connection to your inner self.Led by our experienced Kundalini Yoga instructors, you'll embark on a journey of self-discovery and inner exploration. You'll learn to harness the power of Kundalini energy to release blockages, reduce stress, and gain mental clarity. Join us for 'Awaken Your Kundalini' and unlock your inner potential. This practice is not only a physical workout but a path to spiritual growth and self-realization. Discover the transformative and healing power of Kundalini Yoga in each session."
+    },
+    {
+      "id": 5,
+      "yoga_name": "Yin Yoga",
+      "img": "https://i.ibb.co/HtJSWBy/Extreme-medium-1024x683.jpg",
+      "price": "$45 per session",
+      "title": "Deep Stretching Yin Yoga",
+      "details": "Indulge in the art of deep stretching and relaxation with our 'Deep Stretching Yin Yoga' class. This slow-paced and meditative practice is designed to nourish your body, release tension, and cultivate inner peace.Yin Yoga focuses on long-held passive poses, which target the connective tissues and fascia in your body. By surrendering into each posture and holding them for an extended period, you allow your muscles to relax and your body to gently open up. This practice is perfect for those seeking relief from stress, anxiety, and physical tightness.Led by our compassionate instructors, you'll be guided into a state of deep relaxation and introspection. Yin Yoga is not only about flexibility but also about developing mindfulness and inner stillness. It's a practice that invites you to go beyond the physical and explore the depths of your consciousness. Join us for 'Deep Stretching Yin Yoga' and experience the profound sense of release and tranquility that comes with it. Rediscover your body's natural balance and leave each class feeling revitalized and at peace with yourself."
+    },
+    {
+      "id": 6,
+      "yoga_name": "Bikram Yoga",
+      "img": "https://i.ibb.co/BL9VGt4/Laju-Show-1.jpg",
+      "price": "$65 per session",
+      "title": "Sweat It Out with Bikram Yoga",
+      "details": "Prepare to sweat it out and detoxify your body with Bikram Yoga, a challenging and invigorating practice performed in a heated room. Our 'Sweat It Out with Bikram Yoga' class offers a unique opportunity to experience improved flexibility, strength, and mental clarity.Bikram Yoga consists of a series of 26 postures and two breathing exercises, all practiced in a room heated to approximately 105 degrees Fahrenheit. The heat helps your body stretch, detoxify, and release stored tension. Each class provides a comprehensive full-body workout and is suitable for practitioners of all levels.Under the guidance of our certified Bikram Yoga instructors, you'll learn to embrace the heat and push your limits. This practice not only enhances your physical vitality but also increases mental resilience and focus.Join us for 'Sweat It Out with Bikram Yoga' and discover the transformative power of this heated yoga practice. Experience a sense of renewal and rejuvenation as you sweat away stress and toxins, leaving each class feeling refreshed and invigorated."
+    },
+    {
+      "id": 7,
+      "yoga_name": "Restorative Yoga",
+      "img": "https://i.ibb.co/cFWdJpc/05162023-restnicole9-135542.webp",
+      "price": "$55 per session",
+      "title": "Relaxation with Restorative Yoga",
+      "details": "Experience the art of deep relaxation and rejuvenation with our 'Relaxation with Restorative Yoga' class. This gentle and therapeutic practice utilizes props and supportive poses to promote healing and relaxation.In Restorative Yoga, the emphasis is on surrendering into restful postures, allowing your body to fully let go of tension and stress. By supporting the body with props like bolsters, blankets, and blocks, you'll experience a profound sense of ease and comfort.Led by our compassionate instructors, you'll be guided into a state of deep relaxation and introspection. Restorative Yoga is an ideal choice for anyone seeking relief from chronic pain, anxiety, or the demands of a busy lifestyle.Join us for 'Relaxation with Restorative Yoga' and experience the soothing and healing benefits of this practice. Restore your body, calm your mind, and leave each class feeling recharged and at peace."
+    },
+    {
+      "id": 8,
+      "yoga_name": "Power Yoga",
+      "img": "https://i.ibb.co/7y0F0bg/xf0f3ukusloaijubjyvd.webp",
+      "price": "$60 per session",
+      "title": "Empower Yourself with Power Yoga",
+      "details": "Empower yourself with the dynamic practice of Power Yoga, a modern and energizing form of yoga that focuses on building strength, endurance, and flexibility. Our 'Empower Yourself with Power Yoga' class offers a high-energy workout combined with mindfulness.Power Yoga is characterized by its fast-paced and vigorous sequences that challenge your body and mind. With an emphasis on fluid movement and breath, you'll flow through a series of dynamic postures that build heat and vitality.Our skilled instructors will guide you through each session, helping you explore your physical boundaries and encouraging mental clarity. Power Yoga is not only a fantastic physical workout but also a practice that cultivates resilience and focus.Join us for 'Empower Yourself with Power Yoga' and experience the transformative power of this dynamic practice. Strengthen your body, enhance your mental agility, and leave each class feeling empowered and ready to take on the world."
+    },
+    {
+      "id": 9,
+      "yoga_name": "Meditation",
+      "img": "https://i.ibb.co/2vWm8Ng/exercise-fitness-sport-sports-stretch-working-out-yoga-human-people-pe.jpg",
+      "price": "$40 per session",
+      "title": "Mindfulness Meditation",
+      "details": "Calm your mind, find inner peace, and discover the transformative power of Mindfulness Meditation in our 'Mindfulness Meditation' class. In today's fast-paced world, this ancient practice offers a sanctuary of tranquility and self-awareness. Mindfulness Meditation is a practice of being fully present in the moment, cultivating awareness, and reducing stress. Through guided meditation and breathing techniques, you'll learn to quiet the mind, improve focus, and gain insight into your thoughts and emotions.Led by our experienced meditation instructors, you'll embark on a journey of self-discovery and self-improvement. This practice is not only about relaxation but also about finding clarity and balance in your daily life.Join us for 'Mindfulness Meditation' and explore the profound benefits of a regular meditation practice. Experience greater mental clarity, reduced stress, and a deeper connection with your inner self. Discover the peace and serenity that comes from within."
+    }
+  ]
+  
