@@ -19,9 +19,10 @@ console.log(greetign);
 <p>
 
 #### Answer: ?
-A
+
+- A
 <i>Write your explanation here</i>
-decliar kora ace greeting kintu log kora hioce greetign . greetign declyar kora nai tai answer hobe undefined
+ - decliar kora ace greeting kintu log kora hioce greetign . greetign declyar kora nai tai answer hobe undefined
 </p>
 </details>
 
@@ -44,9 +45,9 @@ sum(1, "2");
 <p>
 
 #### Answer: ?
-C
+- C
 <i>Write your explanation here</i>
-sum function call kora hoice 2 ta value deye 1 and 2. 1 typeof number 2 typeof string 
+- sum function call kora hoice 2 ta value deye 1 and 2. 1 typeof number 2 typeof string 
 </p>
 </details>
 
